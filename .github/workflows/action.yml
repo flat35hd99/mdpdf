@@ -15,7 +15,7 @@ jobs:
         uses: flat35hd99/actions_for_latex_markdown@v1.0.4
         with:
           markdown: main.md
-          bibliography: .bib
+          bibliography: normal.bib
           csl: science
       - name: upload
         uses: actions/upload-artifact@v2
