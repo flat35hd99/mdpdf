@@ -8,4 +8,4 @@
 2. two
 3. three
 
-cite like o@christie2002Phototropin
+cite like @christie2002phototropin
